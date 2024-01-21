@@ -1,0 +1,4 @@
+D:\HOCTAPFPT\GitHub\PRN_Project-Team-2\Solotion\CoffeeShopManager\CoffeeShopManager\bin\Debug\net5.0-windows\CoffeeShopManager.exe
+D:\HOCTAPFPT\GitHub\PRN_Project-Team-2\Solotion\CoffeeShopManager\CoffeeShopManager\bin\Debug\net5.0-windows\CoffeeShopManager.dll
+D:\HOCTAPFPT\GitHub\PRN_Project-Team-2\Solotion\CoffeeShopManager\CoffeeShopManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\HOCTAPFPT\GitHub\PRN_Project-Team-2\Solotion\CoffeeShopManager\CoffeeShopManager\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
